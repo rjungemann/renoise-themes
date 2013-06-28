@@ -1,5 +1,5 @@
-renoise-molokini
-================
+molokini
+========
 
 Created by [thefifthcircuit](mailto:roger@thefifthcircuit.com)
 
