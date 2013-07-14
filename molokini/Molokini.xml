@@ -56,7 +56,7 @@
   <Pattern_CenterBar_Font>255,255,255</Pattern_CenterBar_Font>
   <Pattern_CenterBar_Back_StandBy>0,0,0</Pattern_CenterBar_Back_StandBy>
   <Pattern_CenterBar_Font_StandBy>159,159,159</Pattern_CenterBar_Font_StandBy>
-  <Pattern_Selection>33,83,99</Pattern_Selection>
+  <Pattern_Selection>114,30,66</Pattern_Selection>
   <Pattern_StandBy_Selection>63,63,63</Pattern_StandBy_Selection>
   <Automation_Grid>207,207,207</Automation_Grid>
   <Automation_Line_Edge>223,223,223</Automation_Line_Edge>
@@ -77,14 +77,14 @@
   <Default_Color_02>102,204,0</Default_Color_02>
   <Default_Color_03>76,153,0</Default_Color_03>
   <Default_Color_04>51,102,0</Default_Color_04>
-  <Default_Color_05>255,128,0</Default_Color_05>
-  <Default_Color_06>204,102,0</Default_Color_06>
-  <Default_Color_07>153,76,0</Default_Color_07>
-  <Default_Color_08>102,51,0</Default_Color_08>
-  <Default_Color_09>247,0,107</Default_Color_09>
-  <Default_Color_10>181,0,42</Default_Color_10>
-  <Default_Color_11>129,0,0</Default_Color_11>
-  <Default_Color_12>78,1,0</Default_Color_12>
+  <Default_Color_05>243,0,105</Default_Color_05>
+  <Default_Color_06>178,0,41</Default_Color_06>
+  <Default_Color_07>127,0,0</Default_Color_07>
+  <Default_Color_08>77,1,0</Default_Color_08>
+  <Default_Color_09>250,126,0</Default_Color_09>
+  <Default_Color_10>200,100,0</Default_Color_10>
+  <Default_Color_11>150,75,0</Default_Color_11>
+  <Default_Color_12>100,50,0</Default_Color_12>
   <Default_Color_13>43,223,253</Default_Color_13>
   <Default_Color_14>0,158,188</Default_Color_14>
   <Default_Color_15>2,76,107</Default_Color_15>
